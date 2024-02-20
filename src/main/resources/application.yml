@@ -1,5 +1,5 @@
 openai:
   model: gpt-3.5-turbo
   api:
-    key: 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
+    key: {your key}
     url: https://api.openai.com/v1/chat/completions
